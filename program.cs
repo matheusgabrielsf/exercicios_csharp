@@ -38,7 +38,7 @@ namespace course
             }
             else
             {
-                Console.WriteLine("As duas pessoas têm a mesma idade.");
+                Console.WriteLine("As duas pessoas tem a mesma idade.");
             }
         }
     }
